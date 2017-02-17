@@ -1,5 +1,5 @@
 {
-  "name": "code42day-icalendar",
+  "name": "@pirxpilot/icalendar",
   "version": "0.7.2",
   "author": "James Emerton <james@tri-tech.com>",
   "description": "RFC5545 iCalendar parser/generator",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/code42day/node-icalendar.git"
+    "url": "git://github.com/pirxpilot/node-icalendar.git"
   },
   "dependencies": {},
   "engines": {
